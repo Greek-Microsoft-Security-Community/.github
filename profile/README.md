@@ -6,7 +6,7 @@ We haven't figured out what to build here but we thought it was a good place to 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | #3 Meetup, TBA  | TBA | TBA | TBA | TBA |
 | #2 Meetup, Online | 28/11/2024 | TBA | TBA | TBA |
-| #1 Meetup, Online | 29/10/2024 | Morten Waltorp Knudsen  | Optimizing log ingestion in Microsoft Sentinel, or how to save some €€  | Presentation |
+| #1 Meetup, Online | 29/10/2024 | Morten Waltorp Knudsen  | Optimizing log ingestion in Microsoft Sentinel, or how to save some €€  | [Presentation](https://github.com/Greek-Microsoft-Security-Community/.github/blob/main/presentations/Greek-Microsoft-Security-Community-1st-Meetup-with-Morten-Waltorp-Knudsen.pptx) |
 
 ## About
 
