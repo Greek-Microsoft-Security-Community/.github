@@ -10,4 +10,4 @@ We haven't figured out what to build here but we thought it was a good place to 
 
 ## About
 
-Greek Microsoft Security Community (#GMSC) was established in 2024 and is curated by [Michalis Michalos (aka cyb3rmik3)](https://www.michalos.net/).
+Greek Microsoft Security Community (#GMSC) was established in 2024 and is curated by [Michalis Michalos (aka cyb3rmik3)](https://www.michalos.net/){:target="_blank"}.
