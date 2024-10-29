@@ -1,4 +1,4 @@
-# Welcome to Greek Microsoft Security Community.
+# Welcome to Greek Microsoft Security Community
 
 This place is under construction.
 
